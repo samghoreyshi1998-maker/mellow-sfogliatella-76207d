@@ -1,7 +1,7 @@
 import type { Context, Config } from '@netlify/edge-functions'
 
 
-const FALLBACK_PAGE = ''
+const FALLBACK_PAGE = 'https://ir-netlify.github.io/NETLIFY/new/new.html'
 
 const BLOCKED_HEADERS = [
   'host', 'connection', 'keep-alive', 'proxy-authenticate',
