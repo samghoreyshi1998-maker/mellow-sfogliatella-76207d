@@ -1,7 +1,7 @@
 @import "tailwindcss" source("../");
 
 body {
-  margin: 0;
+  margin: 2;
   font-family: system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
